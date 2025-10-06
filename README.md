@@ -1,5 +1,5 @@
-**VibeCoding Assignment: 
-Build a Mini E-Learning Platform
+**VibeCoding Assignment** 
+Build a **Mini E-Learning Platform**
 
 **Objective****
 
